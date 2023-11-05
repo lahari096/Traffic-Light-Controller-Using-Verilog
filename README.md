@@ -10,13 +10,13 @@ This Verilog project implements a T-intersection traffic lights controller, a cr
 
 
 
-##Features
+## Features
 T-intersection traffic lights controller simulation in Verilog.
 Simulated traffic light states: Red, Yellow, and Green.
 User-friendly timing parameters for customization.
 Simple and easy-to-understand Verilog code structure.
 
-##Prerequisites
+## Prerequisites
 FPGA development board (e.g., Xilinx, Altera) with Verilog synthesis support.
 FPGA programming tools (Xilinx Vivado, Intel Quartus, etc.).
 Basic knowledge of Verilog and FPGA programming.
