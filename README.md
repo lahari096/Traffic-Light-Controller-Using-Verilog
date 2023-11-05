@@ -17,6 +17,5 @@ User-friendly timing parameters for customization.
 Simple and easy-to-understand Verilog code structure.
 
 ## Prerequisites
-FPGA development board (e.g., Xilinx, Altera) with Verilog synthesis support.
-FPGA programming tools (Xilinx Vivado, Intel Quartus, etc.).
+FPGA programming tools ( Vivado, Intel Quartus, etc.).
 Basic knowledge of Verilog and FPGA programming.
